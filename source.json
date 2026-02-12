@@ -1,17 +1,12 @@
 {
     "name": "NyaHo",
     "id": "net.mt-sys.vpm",
-    "url": "https://zwihanderAI.github.io/vpm-repos/vpm.json",
+    "url": "https://zwihanderAI.github.io/vpm-repos/index.json",
     "author": {
         "name": "NyaHo",
         "url": "https://x.com/NyaHo_vrc"
     },
-    "packages": [
-        {
-            "name": "net.mt-sys.playmode-autosave",
-            "releases": [
-                "https://github.com/zwihanderAI/PlayModeAutoSave/releases/download/1.0.0/net.mt-sys.playmode-autosave-1.0.0.zip"
-            ]
-        }
+    "githubRepos": [
+        "zwihanderAI/PlayModeAutoSave"
     ]
 }
