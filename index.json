@@ -1,0 +1,36 @@
+{
+    "name": "NyaHo-VPM Repos",
+    "author": "NyaHo",
+    "url": "https://zwihanderAI.github.io/vpm-repos/index.json",
+    "id": "net.mt-sys.vpm",
+    "packages": {
+        "net.mt-sys.unityplaymodesceneautobackup": {
+            "versions": {
+                "1.0.1": {
+                    "name": "net.mt-sys.unityplaymodesceneautobackup",
+                    "displayName": "PlayModeSceneAutoSave",
+                    "version": "1.0.1",
+                    "description": "Playモード実行時シーンをバックアップする",
+                    "author": {
+                        "name": "NyaHo",
+                        "url": "https://x.com/NyaHo_vrc"
+                    },
+                    "vrchatVersion": "2022.1.1",
+                    "url": "https://github.com/zwihanderAI/UnityPlayModeSceneAutoBackup/releases/download/v1.0.1/UnityPlayModeSceneAutoBackup-1.0.1.zip"
+                },
+                "1.0.0": {
+                    "name": "net.mt-sys.unityplaymodesceneautobackup",
+                    "displayName": "PlayModeSceneAutoSave",
+                    "version": "1.0.0",
+                    "description": "Playモード実行時シーンをバックアップする",
+                    "author": {
+                        "name": "NyaHo",
+                        "url": "https://x.com/NyaHo_vrc"
+                    },
+                    "vrchatVersion": "2022.1.1",
+                    "url": "https://github.com/zwihanderAI/UnityPlayModeSceneAutoBackup/releases/download/v1.0.0/UnityPlayModeSceneAutoBackup_v1.0.0.zip"
+                }
+            }
+        }
+    }
+}
